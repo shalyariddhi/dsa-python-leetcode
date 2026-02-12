@@ -1,3 +1,7 @@
+# Problem: Valid Anagram
+# LeetCode: 242
+# Time Complexity: O(n)
+# Space Complexity: O(1)
 class Solution:
     def isAnagram(self, s, t):
         if len(s) != len(t):
