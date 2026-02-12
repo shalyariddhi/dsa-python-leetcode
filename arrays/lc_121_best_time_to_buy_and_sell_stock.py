@@ -1,3 +1,7 @@
+# Problem: Best Time to Buy and Sell Stock
+# LeetCode: 121
+# Time Complexity: O(n)
+# Space Complexity: O(1)
 class Solution:
     def maxProfit(self, prices):
         min_price = float('inf')
