@@ -10,6 +10,6 @@ class Solution:
                 stack.pop()
                 
             else:
-                stack.append(char)
+                stack.append(ch)
 
         return not stack
